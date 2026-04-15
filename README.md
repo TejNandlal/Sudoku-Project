@@ -5,8 +5,8 @@ Open the file SudokuGenerator.java in CodeHS and run the program. It will automa
 
 The program creates a 9×9 two-dimensional array to represent the Sudoku board. It uses an ArrayList containing the numbers 1 through 9 as a base pattern. Each row of the board is filled using a shifting formula based on the row number, which rearranges the base list in a consistent pattern. This ensures every row contains the numbers 1 through 9 without repetition. The process repeats for all rows until the entire board is filled, resulting in a completed Sudoku solution generated using logic instead of hardcoded values.
 
+Files:
+
 SudokuGenerator.java https://codehs.com/sandbox/id/java-main-X04MNy?filepath=SudokuGenerator.java (Main program code)
-
-README.md (This)
-
-Design document file (2 page doc)
+, README.md (This)
+, Design document file (2 page doc)
